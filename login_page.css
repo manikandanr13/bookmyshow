@@ -1,0 +1,56 @@
+.header{
+	background-color: black ;
+	color: white;
+	text-align: center;
+	padding: 30px;
+	height: 30px;
+
+}
+#login_page{
+	size: 15px;
+}
+main{
+	margin: 150px auto;
+	height: 300px;
+	width: 400px;
+	border: 3px solid black ;
+
+}
+
+#login{
+	text-align: center;
+
+
+}
+
+.form{
+	
+	display: block;
+}
+input{
+	display: block;
+
+}
+
+.text{
+	border: 0px solid white;
+}
+.submit{
+	margin-left: 150px;
+	background-color: green;
+	height: 40px;
+	width: 100px;
+	border-radius: 20px;
+}
+.submit:hover{
+	background-color: red;
+
+}
+
+.footer{
+	background-color: black ;
+	color: white;
+	text-align: center;
+	padding: 30px;
+	height: 30px;
+}
